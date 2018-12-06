@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMARTDOOR</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <string name="n_a">N/A</string>
+    <string name="synchronizing">SYNCHRONIZING</string>
+</resources>
